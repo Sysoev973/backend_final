@@ -1,5 +1,5 @@
 const allowedCors = [
-  "https://sysoev-backend.nomorepartiesco.ru",
+  "https://sysoev-fronted.nomorepartiesco.ru",
   "https://sysoev-backend.nomorepartiesco.ru",
   "https://practicum.yandex.ru",
   "https://students-projects.ru",
